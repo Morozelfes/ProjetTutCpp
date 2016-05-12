@@ -1,0 +1,22 @@
+#include "gestaff.h"
+extern BITMAP*page;
+
+gestaff::gestaff(): Vect()
+{}
+
+gestaff::~gestaff()
+{
+    for(int i=0;i<nb;i++)
+        delete((Tf*)tab[i]);
+}
+
+void gestaff::affiche()
+{
+    Tf* ptn;
+    for(int i=0; i<nb ; i++)
+    {
+        ptn = (Tf*)tab[i];
+        ptn -> affiche();
+    }
+    textprintf(page,font,600,460,makecol(255,0,0),"nb = %d",nb);
+}

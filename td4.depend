@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1462266469 source:z:\documents\c++\td4\interface.cpp
+	"interface.h"
+	<iostream>
+
+1462265745 z:\documents\c++\td4\interface.h
+	"Tf.h"
+	<allegro.h>
+
+1462373431 source:z:\documents\c++\td4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"interface.h"
+	"rect.h"
+	"bouton.h"
+	"menu.h"
+	"Tf.h"
+	"gestaff.h"
+	<allegro.h>
+
+1462264620 source:z:\documents\c++\td4\rect.cpp
+	"rect.h"
+	<iostream>
+
+1462264620 z:\documents\c++\td4\rect.h
+	"interface.h"
+	<allegro.h>
+
+1462264621 source:z:\documents\c++\td4\bouton.cpp
+	"bouton.h"
+	"rect.h"
+	<iostream>
+	<string.h>
+	<allegro.h>
+
+1462264621 z:\documents\c++\td4\bouton.h
+	"rect.h"
+	<iostream>
+	<allegro.h>
+
+1462264620 z:\documents\c++\td4\menu.h
+	"bouton.h"
+	<allegro.h>
+
+1462264620 source:z:\documents\c++\td4\menu.cpp
+	"menu.h"
+	<string.h>
+
+1462265793 z:\documents\c++\td4\tf.h
+
+1462265793 source:z:\documents\c++\td4\tf.cpp
+	"Tf.h"
+
+1462373476 source:z:\documents\c++\td4\gestaff.cpp
+	"gestaff.h"
+	<allegro.h>
+
+1462370734 z:\documents\c++\td4\gestaff.h
+	"Tf.h"
+	<Vect.h>
+
+1462370168 z:\documents\c++\td4\\vect.h
+
+1462370468 source:z:\documents\c++\td4\vect.cpp
+	"Vect.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1462370168 z:\documents\c++\td4\vect.h
+
+1462374457 source:\\merlin\etudiants\singeryo\desktop\td4\bouton.cpp
+	"bouton.h"
+	"rect.h"
+	<iostream>
+	<string.h>
+	<allegro.h>
+
+1462374457 \\merlin\etudiants\singeryo\desktop\td4\bouton.h
+	"rect.h"
+	<iostream>
+	<allegro.h>
+
+1462870503 \\merlin\etudiants\singeryo\desktop\td4\rect.h
+	"interface.h"
+	<allegro.h>
+
+1462374457 \\merlin\etudiants\singeryo\desktop\td4\interface.h
+	"Tf.h"
+	<allegro.h>
+
+1462870258 \\merlin\etudiants\singeryo\desktop\td4\tf.h
+
+1462374457 source:\\merlin\etudiants\singeryo\desktop\td4\gestaff.cpp
+	"gestaff.h"
+	<allegro.h>
+
+1462870084 \\merlin\etudiants\singeryo\desktop\td4\gestaff.h
+	"Tf.h"
+	"Vect.h"
+
+1462374457 source:\\merlin\etudiants\singeryo\desktop\td4\interface.cpp
+	"interface.h"
+	<iostream>
+
+1462374457 source:\\merlin\etudiants\singeryo\desktop\td4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"interface.h"
+	"rect.h"
+	"bouton.h"
+	"menu.h"
+	"Tf.h"
+	"gestaff.h"
+	<allegro.h>
+
+1462374458 \\merlin\etudiants\singeryo\desktop\td4\menu.h
+	"bouton.h"
+	<allegro.h>
+
+1462374458 source:\\merlin\etudiants\singeryo\desktop\td4\menu.cpp
+	"menu.h"
+	<string.h>
+
+1462374458 source:\\merlin\etudiants\singeryo\desktop\td4\rect.cpp
+	"rect.h"
+	<iostream>
+
+1462374458 source:\\merlin\etudiants\singeryo\desktop\td4\tf.cpp
+	"Tf.h"
+
+1462867544 source:\\merlin\etudiants\singeryo\desktop\td4\vect.cpp
+	"Vect.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1462867530 \\merlin\etudiants\singeryo\desktop\td4\vect.h
+
